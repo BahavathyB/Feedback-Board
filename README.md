@@ -1,4 +1,4 @@
-# Feedback Product Board
+# Feedback Product Board - FRONTEND
 
 A minimal, fully-functional Feedback Product Board web app built using React, Redux Toolkit, Material UI, and json-server as a mock backend through db.json.
 
