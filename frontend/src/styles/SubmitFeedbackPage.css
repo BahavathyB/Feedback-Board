@@ -1,0 +1,13 @@
+.submit-feedback-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-textfield {
+  margin-bottom: 16px; /* ensure spacing between fields */
+}
+
+.form-error {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}

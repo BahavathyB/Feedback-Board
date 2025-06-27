@@ -1,0 +1,20 @@
+.feedback-description {
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.feedback-createdAt {
+  color: #6b7280; /* Tailwind gray-500 */
+  font-size: 0.875rem; /* 14px */
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.feedback-chips > * {
+  margin-right: 0.5rem;
+  text-transform: capitalize;
+}
+
+.upvote-button {
+  margin-top: 1.5rem;
+}

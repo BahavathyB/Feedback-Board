@@ -1,0 +1,103 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "title": "Add dark mode",
+      "description": "Would love a dark theme for late-night usage.",
+      "category": "Feature",
+      "status": "Open",
+      "upvotes": 26,
+      "createdAt": "2025-06-19T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Fix login button on mobile",
+      "description": "The login button doesn't respond on small screens.",
+      "category": "Bug",
+      "status": "Planned",
+      "upvotes": 5,
+      "createdAt": "2025-06-20T08:15:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Organize feedback by category",
+      "description": "It would help to browse feedback by type like UI, Bug, etc.",
+      "category": "Feature",
+      "status": "Open",
+      "upvotes": 7,
+      "createdAt": "2025-06-21T14:30:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Redesign homepage layout",
+      "description": "The current layout feels cluttered and hard to navigate.",
+      "category": "UI",
+      "status": "In Progress",
+      "upvotes": 9,
+      "createdAt": "2025-06-22T09:45:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Add real-time notifications",
+      "description": "Notify users when their feedback is updated or commented on.",
+      "category": "Feature",
+      "status": "Planned",
+      "upvotes": 21,
+      "createdAt": "2025-06-22T16:10:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Broken links in footer",
+      "description": "The About and Careers links return 404 errors.",
+      "category": "Bug",
+      "status": "Done",
+      "upvotes": 3,
+      "createdAt": "2025-06-23T11:25:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Add multi-language support",
+      "description": "Would be great to support other languages like Spanish and French.",
+      "category": "Feature",
+      "status": "Open",
+      "upvotes": 25,
+      "createdAt": "2025-06-23T17:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Improve accessibility",
+      "description": "Add screen reader support and proper contrast ratios.",
+      "category": "UI",
+      "status": "In Progress",
+      "upvotes": 8,
+      "createdAt": "2025-06-24T12:40:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Export feedback as CSV",
+      "description": "Allow admins to export all feedback in CSV format.",
+      "category": "Feature",
+      "status": "Planned",
+      "upvotes": 6,
+      "createdAt": "2025-06-25T10:20:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Feedback timestamps are incorrect",
+      "description": "Some feedback items show incorrect dates on the dashboard.",
+      "category": "Bug",
+      "status": "Done",
+      "upvotes": 4,
+      "createdAt": "2025-06-25T18:30:00Z"
+    },
+    {
+      "id": "7933f598-8f5e-4826-98d8-84be6a37b76d",
+      "title": "Allow editing submitted feedback",
+      "description": "Users should be able to edit their feedback in case they want to update the details or fix typos",
+      "category": "Feature",
+      "status": "Open",
+      "upvotes": 3,
+      "createdAt": "2025-06-26T12:23:18.888Z"
+    }
+  ]
+}

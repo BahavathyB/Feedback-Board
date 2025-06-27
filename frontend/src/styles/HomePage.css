@@ -1,0 +1,15 @@
+.homepage-title {
+  font-weight: 700;
+}
+
+.loading-container {
+  margin-top: 48px;
+}
+
+.error-message {
+  margin-top: 24px;
+}
+
+.no-feedback-message {
+  margin-top: 24px;
+}
