@@ -4,6 +4,7 @@ A minimal, fully-functional Feedback Product Board web app built using React, Re
 
 ## Live Demo
 Frontend Web Application: https://bahavathy-feedback-board.netlify.app/
+
 Backend (JSON Server API): https://feedbacks-757d.onrender.com/
 
 ## Project Overview
@@ -101,6 +102,9 @@ PUT /feedback/:id – update a feedback item
 DELETE /feedback/:id – delete a feedback item
 
 ## Hosting
+
 The frontend is built with React (Vite) and deployed on Netlify.
+
 The backend uses JSON Server to mock REST API functionality and is hosted on Render.com.
+
 All feedback data is fetched from the JSON server using HTTP requests.
